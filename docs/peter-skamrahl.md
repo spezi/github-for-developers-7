@@ -2,3 +2,4 @@
      - [Bamnberg ] Where you are from
      - [meet] A favorite food
      - [skating ] A hobby
+     - [green] favorite color
